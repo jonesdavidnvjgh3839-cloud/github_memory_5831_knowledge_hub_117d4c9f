@@ -1,2 +1,3 @@
-# github_memory_5831_knowledge_hub_117d4c9f
-Customer Success Knowledge Hub (task github_memory_5831)
+# Knowledge Hub
+
+Customer Success knowledge repository. The authoritative product index lives at [products/_index.md](./products/_index.md).
