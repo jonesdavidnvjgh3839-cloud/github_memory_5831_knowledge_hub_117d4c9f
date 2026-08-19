@@ -1,7 +1,7 @@
-# Nova Suite
+# Legacy Atlas
 
 > Sample documentation page generated from the repository template. Placeholder content.
 
-- **Slug**: nova-suite
+- **Slug**: legacy-atlas
 - **Status**: unknown
 - **Description**: TBD - update from catalog

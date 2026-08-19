@@ -1,12 +1,16 @@
 # Product Knowledge Index
 
+> Placeholder index. Must be reconciled with the target product catalog.
+
 ## Active
 - [Nova Suite](./nova-suite.md)
+- [Legacy Atlas](./legacy-atlas.md)
 - [Orbis Flow](./orbis-flow.md)
-- [Quantum Edge](./quantum-edge.md)
+- [Zenith AI](./zenith-ai.md)
+- [Stale Template Product](./stale-template-product.md)
 
 ## Deprecated
-- Legacy Atlas
+- (none)
 
 ## Planned
-- Zenith AI
+- (none)
